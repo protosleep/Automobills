@@ -1,0 +1,9 @@
+.vs
+
+# output folders
+Automobills/bin
+Automobills/obj
+
+AutomobillsWPF/bin
+AutomobillsWPF/obj
+ThirdParty
