@@ -7,3 +7,7 @@ Automobills/obj
 AutomobillsWPF/bin
 AutomobillsWPF/obj
 ThirdParty
+/Automobills.Core/obj
+/Automobills.Core.Test/bin/Debug/net5.0
+/Automobills.Core.Test/obj
+/Automobills.Core/bin/Debug/net5.0

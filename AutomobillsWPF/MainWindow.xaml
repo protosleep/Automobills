@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AutomobillsWPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Automobills v0.1" Height="450" Width="800">
     <Grid>
         <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" MinWidth="150" >
             <Button Content="Overview Page" MinWidth="150" Click="OverviewPage_Click" Margin="2,0,0,0"/>
